@@ -8,7 +8,7 @@ class LoginBinding extends Bindings {
 
     Get.lazyPut<LoginController>(
           () => LoginController(),
-      //making source tree change
+      //making source tree change ****
     );
   }
 }
